@@ -1,6 +1,6 @@
 # Dummy Hologram
 
-視認可能なプレイヤーの範囲が選択可能なホログラムを提供する 1.19.4 専用の Spigot Plugin 用ライブラリです。
+視認範囲の選択が可能なホログラムを提供する 1.19.4 専用の Spigot Plugin 用ライブラリです。
 
 ## Getting Started / 始め方
 
