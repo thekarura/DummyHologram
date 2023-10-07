@@ -1,0 +1,7 @@
+name: DummyHologram
+version: '${project.version}'
+main: net.tkarura.spigot.dummyhologram.DummyHologram
+depend: [ ProtocolLib ]
+author: the_karura
+website: tkarura.net
+api-version: '1.19'
